@@ -1,4 +1,4 @@
-package com.example.qazlingo;
+package com.example.qazlingo_diploma;
 
 import org.junit.Test;
 
